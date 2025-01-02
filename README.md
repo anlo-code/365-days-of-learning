@@ -1,60 +1,45 @@
 # 365-days-of-learning
 
 ## Objetivo
+
 Mi objetivo es aprender sobre el desarrollo de aplicaciones con IA, centrándome en:
-- Python
-- Desarrollo de aplicaciones prácticas
-- Integración de servicios de IA
-- Automatización
+
+*   Python
+*   Desarrollo de aplicaciones prácticas
+*   Integración de servicios de IA
+*   Automatización
+
+## Progreso
+
+| Fase                     | Curso/Tema                               | Estado      | Fecha de Inicio | Fecha de Fin | Notas                                   |
+| ------------------------ | ----------------------------------------- | ----------- | --------------- | ------------- | --------------------------------------- |
+| FASE 1 - FUNDAMENTOS     | [Introduction to Python](ENLACE_AL_CURSO) | En curso    | 02/01/2025      |               | Aprendiendo variables y tipos de datos. |
+|                          | [Intermediate Python](ENLACE_AL_CURSO)    | Pendiente   |               |               |                                         |
+| ...                      | ...                                       | ...         | ...             | ...           | ...                                     |
 
 ## Plan de Estudios
+
 Siguiendo el curriculum de DataCamp:
-1. Fundamentos de Python y programación
-2. Desarrollo de aplicaciones con IA
-3. Automatización e integración
-
-
-## Recursos
-- DataCamp
-- GitHub
-
-## Estructura
-
-El plan se divide en las siguientes fases:
 
 FASE 1 - FUNDAMENTOS (2-3 meses)
 
-Introduction to Python
-Intermediate Python
-Python for Data Science Toolbox (Part 1)
-Writing Functions in Python
-Introduction to Git
-Web Development with Python
-Working with APIs in Python
-
-FASE 2 - IA Y APLICACIONES (2-3 meses)
-
-"Developing AI Applications" track completo, que incluye:
-
-Introduction to Large Language Models
-Building AI Applications with OpenAI
-Prompt Engineering for LLMs
-RAG Applications for LLMs
-
-FASE 3 - AUTOMATIZACIÓN E INTEGRACIÓN (2-3 meses)
-
-Writing Efficient Python Code
-Introduction to Databases in Python
-Building Chatbots in Python
-Introduction to Shell
-Building Advanced AI Applications
-Software Engineering Principles in Python
+*   [Introduction to Python](ENLACE_AL_CURSO)
+*   [Intermediate Python](ENLACE_AL_CURSO)
+*   ...
 
 ## Cómo usar este repositorio
 
-Cada día se realizará un commit con el código, la documentación y los recursos utilizados.
+Este repositorio contiene un registro diario de mi aprendizaje. Cada día se crea una nueva carpeta dentro de `daily-log/`, siguiendo el formato `day-XX` (ej. `day-01`, `day-02`). Dentro de cada carpeta, hay un archivo `README.md` que contiene:
+
+*   **Fecha:** La fecha del registro.
+*   **Temas cubiertos:** Los temas que he estudiado ese día.
+*   **Aprendizajes clave:** Los conceptos importantes que he aprendido.
+*   **Dificultades encontradas (opcional):** Cualquier problema que haya encontrado y cómo lo he solucionado.
+*   **Plan para mañana:** Los temas que planeo estudiar al día siguiente.
+
+Los commits se realizarán diariamente con un mensaje descriptivo, por ejemplo, "Registro del día 3 - Aprendiendo sobre bucles en Python".
 
 ## Contacto
 
-anlo      
+anlo
 https://github.com/anlo-code
