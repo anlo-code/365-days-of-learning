@@ -1,21 +1,54 @@
 # 365-days-of-learning
-# Plan de Aprendizaje de 365 Días: Desarrollo de IA
 
-Este repositorio contiene mi progreso en el plan de aprendizaje de 365 días para desarrollo de Inteligencia Artificial.
+## Objetivo
+Mi objetivo es aprender sobre el desarrollo de aplicaciones con IA, centrándome en:
+- Python
+- Desarrollo de aplicaciones prácticas
+- Integración de servicios de IA
+- Automatización
 
-## Descripción
+## Plan de Estudios
+Siguiendo el curriculum de DataCamp:
+1. Fundamentos de Python y programación
+2. Desarrollo de aplicaciones con IA
+3. Automatización e integración
 
-Este plan está diseñado para adquirir conocimientos y habilidades en diversas áreas de la IA, desde fundamentos de programación y matemáticas hasta Deep Learning, NLP y desarrollo de agentes.
+
+## Recursos
+- DataCamp
+- GitHub
 
 ## Estructura
 
 El plan se divide en las siguientes fases:
 
-*   Fase 1: Fundamentos y Primeros Pasos con IA
-*   Fase 2: Fundamentos de IA y ML
-*   Fase 3: Deep Learning y NLP
-*   Fase 4: Desarrollo de Agentes
-*   Fase 5: Especialización y Proyectos Avanzados
+*** FASE 1 - FUNDAMENTOS (2-3 meses)
+
+Introduction to Python
+Intermediate Python
+Python for Data Science Toolbox (Part 1)
+Writing Functions in Python
+Introduction to Git
+Web Development with Python
+Working with APIs in Python
+
+*** FASE 2 - IA Y APLICACIONES (2-3 meses)
+
+"Developing AI Applications" track completo, que incluye:
+
+Introduction to Large Language Models
+Building AI Applications with OpenAI
+Prompt Engineering for LLMs
+RAG Applications for LLMs
+
+*** FASE 3 - AUTOMATIZACIÓN E INTEGRACIÓN (2-3 meses)
+
+Writing Efficient Python Code
+Introduction to Databases in Python
+Building Chatbots in Python
+Introduction to Shell
+Building Advanced AI Applications
+Software Engineering Principles in Python
 
 ## Cómo usar este repositorio
 
