@@ -22,7 +22,7 @@ Siguiendo el curriculum de DataCamp:
 
 El plan se divide en las siguientes fases:
 
-*** FASE 1 - FUNDAMENTOS (2-3 meses)
+FASE 1 - FUNDAMENTOS (2-3 meses)
 
 Introduction to Python
 Intermediate Python
@@ -32,7 +32,7 @@ Introduction to Git
 Web Development with Python
 Working with APIs in Python
 
-*** FASE 2 - IA Y APLICACIONES (2-3 meses)
+FASE 2 - IA Y APLICACIONES (2-3 meses)
 
 "Developing AI Applications" track completo, que incluye:
 
@@ -41,7 +41,7 @@ Building AI Applications with OpenAI
 Prompt Engineering for LLMs
 RAG Applications for LLMs
 
-*** FASE 3 - AUTOMATIZACIÓN E INTEGRACIÓN (2-3 meses)
+FASE 3 - AUTOMATIZACIÓN E INTEGRACIÓN (2-3 meses)
 
 Writing Efficient Python Code
 Introduction to Databases in Python
