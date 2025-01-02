@@ -16,5 +16,5 @@
 
 ### Plan para mañana
 
-*   [ ] Completar el primer módulo "Introducción a Python" en DataCamp, enfocándome en las variables, tipos de datos y operadores básicos.
-*   [ ] Instalar Python y un editor de código (VS Code o similar) para configurar mi entorno de desarrollo local.
+*   [x] Completar el primer módulo "Introducción a Python" en DataCamp, enfocándome en las variables, tipos de datos y operadores básicos.
+*   [x] Instalar Python y un editor de código (VS Code o similar) para configurar mi entorno de desarrollo local.
